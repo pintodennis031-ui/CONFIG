@@ -1,15 +1,12 @@
 return {
     authorizedUsers = {
         [7359325966] = true, --Sparky02
-        [3202519938] = true, --Yuu
-        [1240194439] = true, --L2_Black
         [5337052152] = true, --Richard
         [10066750641] = true, --2 account Richard (@ezleszeskesz123)
-        [7058198451] = true, --Seyed
     },
     expirationDate = {
         year = 2026, 
-        month = 9, 
+        month = 10, 
         day = 1, 
         hour = 12
     },
